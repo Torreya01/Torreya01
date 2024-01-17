@@ -1,6 +1,6 @@
 ### Hi there 👋
--🔭 I’m currently working on data science
--⚡ Fun fact: I am a malo 🐒
+- 🔭 I’m currently working on data science
+- ⚡ Fun fact: I am a malo 🐒
 <!--
 **Torreya01/Torreya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
